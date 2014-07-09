@@ -10,6 +10,8 @@ This is a Ruby library for automating work via GUI on Mac (using OSA/Applescript
 
 You have to enable the "access for assistive devices" for the scripts to run. You do this via System Preferences -> Universal Access / Accessibility -> "enable access for assistive devices"
 
+For Mavericks, 
+
 = How to use
 
 Examples:
